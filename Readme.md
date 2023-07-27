@@ -1,13 +1,14 @@
 # Library Management System
 
 * Programming Fundamentals Project
-  This Project is Created by 
+  
+  This Project is Created by \
   Yasir Hussain and Muhammad Umar
   
-* This project is Open Source , and can be used for Educational Purposes
+* This project is Open Source , and can be used for Educational Purposes \
 
-  TO ACCESS THE PROJECT :
-  U NEED TO LOG IN >>>>>
+  TO ACCESS THE PROJECT : \
+  U NEED TO LOG IN >>>>> \
   
-  Username : iamfunny
+  Username : iamfunny \
   Password : whoispro
