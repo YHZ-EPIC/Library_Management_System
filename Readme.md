@@ -1,3 +1,5 @@
+<font style="color:#fff; font-family: 'Bebas Neue'; font-size: 3.5ch">
+
 # Library Management System
 
 * Programming Fundamentals Project <br>
@@ -12,3 +14,5 @@
   
   Username : iamfunny <br>
   Password : whoispro
+
+</font>
